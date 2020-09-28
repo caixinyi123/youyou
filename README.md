@@ -13,12 +13,11 @@
 		    <td>
 			    <a href="chap-a.html">实验1-a</a>
 		    </td>
-	    </tr>
- <tr>
+	   
 		    <td>
 			    <a href="chap-b.html">实验1-b</a>
 		    </td>
-	    </tr>
+	 </tr>
 </table>
 </h4>
 
