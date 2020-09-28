@@ -7,6 +7,14 @@
 	<h4>
      <a href="1.html">实验0</a>
 	</h4>
-	<h4>实验1</h4>
+	<h4>实验1
+    <table>
+	    <tr>
+		    <td>
+			    <a href="chap01.html">实验1-a</a>
+		    </td>
+	    </tr>
+</table>
+</h4>
 
 </html>
