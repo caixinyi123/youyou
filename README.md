@@ -11,7 +11,7 @@
     <table>
 	    <tr>
 		    <td>
-			    <a href="chap01.html">实验1-a</a>
+			    <a href="chap-a.html">实验1-a</a>
 		    </td>
 	    </tr>
 </table>
