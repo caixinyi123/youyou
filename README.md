@@ -31,10 +31,10 @@
 			    <a href="chap-c.html">实验1-c</a>
 		    </td>
 		    <td>
-			    <a href="chap-d.html">实验1-d</a>
+			    <a href="demol/chap-d.html">实验1-d</a>
 		    </td>
 		     <td>
-			    <a href="chap-e.html">实验1-e</a>
+			    <a href="demol/chap-e.html">实验1-e</a>
 		    </td>
 	    </tr>
 </table>
