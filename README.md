@@ -43,6 +43,7 @@
 		<table>
 			<tr>
 				<td>
+					<a href="实验二/demol2/chap-a.html">实验2-a</a>
 				</td>
 			</tr>
 		</table>
