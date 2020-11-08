@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+    <title></title>
+    <script id="vertex-shader" type="x-shader/x-vertex">
+        attribute vec3 vPosition;
+        attribute vec3 vColor;
+        varying vec4 color;
+    
+        void main(){
+            gl_Position = vec4( vPosition, 1.0 );
+            color = vec4( vColor, 1.0 );
+        }
+	</script>
+
+    <script id="fragment-shader" type="x-shader/x-fragment">
+        precision mediump float;
+        varying vec4 color;
+        void main(){
+            gl_FragColor = color;
+        }
+    </script>
+    
+
+    <script type="text/javascript" src="../js/common/webgl-utils.js"></script>
+    <script type="text/javascript" src="../js/common/initShaders.js"></script>
+    <script type="text/javascript" src="../js/common/gl-matrix-min.js"></script>
+
+    <script type="text/javascript" src="../js/ch02/gasket-triangle-b.js"></script>
+</head>
+
+<body>
+    <canvas id="gl-canvas" width="512" height="512">你的浏览器不支持HTML5 canvas元素</canvas>
+	</br>
+    0<input type="range" id="rank" min="0" max="7" step="1" value="0" />7
+    <button onclick="getMySelect();init()">确认</button>
+</body>
+
+</html>
