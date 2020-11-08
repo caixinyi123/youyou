@@ -43,7 +43,21 @@
 		<table>
 			<tr>
 				<td>
-					<a href="实验二/demol2/chap-a.html">实验2-a</a>
+					<a href="计图实验二/demol2/chap-a.html">实验2-a</a>
+				</td>
+				<td>
+					<a href="计图实验二/demol2/chap-b.html">实验2-b</a>
+				</td>
+				<td>
+					<a href="计图实验二/demol2/chap-c.html">实验2-c</a>
+				</td>
+			</tr>
+			<tr>
+				<td>
+					<a href="计图实验二/demol2/chap-d.html">实验2-d</a>
+				</td>
+				<td>
+					<a href="计图实验二/demol2/chap-e.html">实验2-e</a>
 				</td>
 			</tr>
 		</table>
