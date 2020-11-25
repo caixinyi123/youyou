@@ -62,5 +62,17 @@
 			</tr>
 		</table>
 	</h4>
+	<h4>实验3
+		<table>
+			<tr>
+				<td>
+					<a href="计图实验三/demol2/text-a.html">实验3-a</a>
+				</td>
+				<td>
+					<a href="计图实验三/demol2/text-b.html">实验3-b</a>
+				</td>
+			</tr>
+		</table>
+	</h4>
 
 </html>
