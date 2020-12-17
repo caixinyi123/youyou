@@ -74,5 +74,17 @@
 			</tr>
 		</table>
 	</h4>
+	<h4>实验4
+		<table>
+			<tr>
+				<td>
+					<a href="计图实验四/demol4/text-a+b+c.html">实验4-a+b+c</a>
+				</td>
+				<td>
+					<a href="计图实验四/demol4/text-d.html">实验4-d</a>
+				</td>
+			</tr>
+		</table>
+	</h4>
 
 </html>
