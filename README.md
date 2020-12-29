@@ -86,5 +86,14 @@
 			</tr>
 		</table>
 	</h4>
+		<h4>实验5
+		<table>
+			<tr>
+				<td>
+					<a href="计图实验五/demol5/text.html">index</a>
+				</td>
+			</tr>
+		</table>
+	</h4>
 
 </html>
